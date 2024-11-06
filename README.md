@@ -17,11 +17,13 @@ USBディスクを元に戻す流れ<br>
 <br>
 備考<br>
 resources内のChangeWP.exeのソースコードは<br>
-[import ctypes<br>
+<br>
+import ctypes<br>
 <br>
 f = open('D:\\pic_name.txt', 'r', encoding='UTF-8')<br>
 basename = f.read() #read the note text of the file name of the pic<br>
 f.close()<br>
 <br>
-ctypes.windll.user32.SystemParametersInfoW(20, 0, f"D:\\{basename}" , 0) #set the pic desktop]<br>
+ctypes.windll.user32.SystemParametersInfoW(20, 0, f"D:\\{basename}" , 0) #set the pic desktop<br>
+<br>
 で、nuitkaにより実行ファイルにしたものです。<br>
