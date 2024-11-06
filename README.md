@@ -3,9 +3,9 @@
 そんなUSBディスクを作ることができるpythonコードです。<br>
 <br>
 必要な事前準備<br>
-3．お好みの画像ファイルを用意してください
-1．最新リリースからWallPaperChangeViaFlashDisk.zipをダウンロードしてください<br>
-2．コマンドプロンプトからpythonが使えるようにしてください<br>
+1．お好みの画像ファイルを用意してください<br>
+2．最新リリースからWallPaperChangeViaFlashDisk.zipをダウンロードしてください<br>
+3．コマンドプロンプトからpythonが使えるようにしてください<br>
 <br>
 コードの使い方<br>
 1．空のUSBディスクをwindowsPCにセット、D: が割り当てられていることを確認する<br>
