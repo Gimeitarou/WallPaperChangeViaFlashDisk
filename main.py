@@ -18,8 +18,8 @@ f = open("D:\\pic_name.txt", 'w')
 f.write(f"{basename}") #write down the file name of the pic for Do_not_misuse.exe to notice the file name that it have to pick up
 f.close
 
-shutil.copy('d:\\resources\\RenameMe.lnk', 'D:') #make copy of RenameMe.lnk on D:
-shutil.copy('d:\\resources\\ChangeWP.exe', 'D:') #make copy of ChangeWP.exe on D:
+shutil.copy('d:\\resources.zip\\RenameMe.lnk', 'D:') #make copy of RenameMe.lnk on D:
+shutil.copy('d:\\resources.zip\\ChangeWP.exe', 'D:') #make copy of ChangeWP.exe on D:
 
 subprocess.run('attrib +r +h d:\\ChangeWP.exe' #hide ChangeWP.exe
                 +f'&& attrib +r +h d:\\{basename}' #hide the pic
