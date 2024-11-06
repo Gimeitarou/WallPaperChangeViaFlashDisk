@@ -12,7 +12,7 @@
 3．main.pyを'python d:/main.py' で走らせる<br>
 4．main.pyとresourcesファイルを削除、もしくは別の場所に移動させておく<br>
 5．RenameMe.lnk(ショートカットファイル)のみが置かれたUSBディスクが完成<br>
-6．RenameMe.lnkの名前やアイコンを好きなものに変更<br>
+※RenameMe.lnkの名前やアイコンはお好みで変更してください<br>
 <br>
 USBディスクを元に戻す流れ<br>
 1．after-use.pyをダウンロード<br>
