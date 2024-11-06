@@ -3,8 +3,9 @@
 そんなUSBディスクを作ることができるpythonコードです。<br>
 <br>
 必要な事前準備<br>
-1．最新リリースからWallPaperChangeViaFlashDisk.zipをダウンロード<br>
-2．コマンドプロンプトからpythonが使えるようにすること<br>
+3．お好みの画像ファイルを用意してください
+1．最新リリースからWallPaperChangeViaFlashDisk.zipをダウンロードしてください<br>
+2．コマンドプロンプトからpythonが使えるようにしてください<br>
 <br>
 コードの使い方<br>
 1．空のUSBディスクをwindowsPCにセット、D: が割り当てられていることを確認する<br>
@@ -12,7 +13,6 @@
 3．main.pyを'python d:/main.py' で走らせる<br>
 4．main.pyとresourcesファイルを削除、もしくは別の場所に移動させておく<br>
 5．RenameMe.lnk(ショートカットファイル)のみが置かれたUSBディスクが完成<br>
-※RenameMe.lnkの名前やアイコンはお好みで変更してください<br>
 <br>
 USBディスクを元に戻す流れ<br>
 1．after-use.pyをダウンロード<br>
