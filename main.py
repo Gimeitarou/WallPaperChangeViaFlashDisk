@@ -15,7 +15,7 @@ shutil.copy(f'{pic_path}', 'D:') #make copy of the pic on D:
 basename = os.path.basename(pic_path) #put file name of pic into {basename}
 
 f = open("D:\\pic_name.txt", 'w')
-f.write(f"{basename}") #write down the file name of the pic for Do_not_misuse.exe to notice the file name that it have to pick up
+f.write(f"{basename}") #write down the file name of the pic for ChangeWP.exe to notice the file name that it have to pick up
 f.close
 
 shutil.copy('d:\\resources\\RenameMe.lnk', 'D:') #make copy of RenameMe.lnk on D:
