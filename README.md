@@ -22,6 +22,7 @@ USBディスクを元に戻す流れ<br>
 4．完了<br>
 <br>
 備考<br>
-resources内のChangeWP.exeは、ChangeWPをnuitkaにより実行ファイルにしたもの<br>
+コードはWindowsでの動作を想定したものです<br
+>resources内のChangeWP.exeは、ChangeWPをnuitkaにより実行ファイルにしたもの<br>
 動作デモ
 https://x.com/300kyen/status/1854147116656177185
