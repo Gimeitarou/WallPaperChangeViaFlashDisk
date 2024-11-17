@@ -28,3 +28,6 @@ USBディスクを元に戻す流れ<br>
 resources内のChangeWP.exeは、ChangeWPをnuitkaにより実行ファイルにしたものです<br>
 動作デモ:<br>
 https://x.com/300kyen/status/1854147116656177185
+
+# License
+The source code is licensed MIT.
