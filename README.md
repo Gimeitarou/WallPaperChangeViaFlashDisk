@@ -1,3 +1,35 @@
+<Codes for windows><br>
+<There is also a version that runs on E-directry for those who want to make sure it works on Windows in a virtual environment>.<br>
+<br>
+A USB disk with only shortcut files on it.<br>
+When you run the shortcut file, specific image you choose will be set as the wallpaper of your PC.<br>
+This is a python code that can create such a USB disk.<br>
+<br>
+Preparations required<br>
+1. Prepare an image file of your choice.<br>
+2. Download WallPaperChangeViaFlashDisk.zip from the latest release.<br>
+3. Please make sure that you can use python from the command prompt.<br>
+<br>
+How to use the code<br>
+1. Place a blank USB disk in your windows PC and make sure D: is assigned.<br>
+2. Open WallPaperChangeViaFlashDisk.zip and copy main.py and resources file to D directory (D:)<br>
+3. Run main.py as 'python d:/main.py<br>
+4. Delete or move main.py and resources files to another location.<br>
+5. USB disk with only RenameMe.lnk (shortcut file) is completed.<br>
+<br>
+How to return the USB disk to the original state<br>
+1. Download after-use.py<br>
+2. Insert the USB disk and check if it is on d:<br>
+2. Move after-use.py to the D directory (D:) and run 'python d:/after-use.py<br>
+3. Delete the hidden files and after-use.py as they will be unvailed.<br>
+4. That's all.<br>
+<br>
+Remarks<br>
+ChangeWP.exe in resources is an executable of ChangeWP by nuitka.<br>
+<br>
+<br>
+以下、日本語版<br>
+<br>
 <windows向けコードです><br>
 <仮想環境にあるWindowsで動作を確認したい方向けにEdirで動くようにしたバージョンもあります><br>
 <br>
