@@ -24,3 +24,6 @@ shutil.copy('d:\\resources\\ChangeWP.exe', 'D:') #make copy of ChangeWP.exe on D
 subprocess.run('attrib +r +h d:\\ChangeWP.exe' #hide ChangeWP.exe
                 +f'&& attrib +r +h d:\\{basename}' #hide the pic
                 +'&& attrib +r +h d:\\pic_name.txt', shell=True) #hide note of file name of pic
+
+#Copyright (c) 2024 Gimeitarou
+#This software is released under the MIT License, see LICENSE.
