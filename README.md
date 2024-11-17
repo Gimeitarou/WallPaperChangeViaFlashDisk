@@ -1,5 +1,5 @@
-<Codes for windows><br>
-<There is also a version that runs on E-directry for those who want to make sure it works on Windows in a virtual environment>.<br>
+[Codes for windows]<br>
+[There is also a version that runs on E-directry for those who want to make sure it works on Windows in a virtual environment].<br>
 <br>
 A USB disk with only shortcut files on it.<br>
 When you run the shortcut file, specific image you choose will be set as the wallpaper of your PC.<br>
@@ -26,7 +26,8 @@ How to return the USB disk to the original state<br>
 <br>
 Remarks<br>
 ChangeWP.exe in resources is an executable of ChangeWP by nuitka.<br>
-<br>
+# License
+The source code is licensed MIT.<br>
 <br>
 以下、日本語版<br>
 <br>
