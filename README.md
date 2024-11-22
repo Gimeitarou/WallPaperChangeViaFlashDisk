@@ -14,18 +14,19 @@ How to use the code<br>
 1. Put a blank USB disk into your windows PC and make sure D: is assigned.<br>
 2. Open WallPaperChangeViaFlashDisk.zip and copy [main.py and resources folder] to D directory (D:)<br>
 3. Run main.py as 'python d:/main.py<br>
-4. Delete or move main.py and resources files to another location.<br>
-5. USB disk with only RenameMe.lnk (shortcut file) is completed.<br>
+4. Delete [main.py and resources folder] 
+(or move them to other location).<br>
+5. USB disk with only RenameMe.lnk (shortcut file) is now here!<br>
 <br>
 How to return the USB disk to the original state<br>
 1. Download after-use.py<br>
 2. Insert the USB disk and check if it is on d:<br>
 2. Move after-use.py to the D directory (D:) and run 'python d:/after-use.py<br>
-3. Delete the hidden files and after-use.py as they will be unvailed.<br>
+3. Delete the unvailed files and after-use.py, too.<br>
 4. That's all.<br>
 <br>
 Remarks<br>
-ChangeWP.exe in resources is an executable of ChangeWP by nuitka.<br>
+ChangeWP.exe in resources is EXE file of ChangeWP.py built by nuitka.<br>
 
 # License
 The source code is licensed MIT.<br>
