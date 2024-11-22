@@ -11,8 +11,8 @@ Preparations required<br>
 3. Please make sure that you can use python from the command prompt.<br>
 <br>
 How to use the code<br>
-1. Place a blank USB disk in your windows PC and make sure D: is assigned.<br>
-2. Open WallPaperChangeViaFlashDisk.zip and copy main.py and resources file to D directory (D:)<br>
+1. Put a blank USB disk into your windows PC and make sure D: is assigned.<br>
+2. Open WallPaperChangeViaFlashDisk.zip and copy [main.py and resources folder] to D directory (D:)<br>
 3. Run main.py as 'python d:/main.py<br>
 4. Delete or move main.py and resources files to another location.<br>
 5. USB disk with only RenameMe.lnk (shortcut file) is completed.<br>
