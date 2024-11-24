@@ -3,6 +3,8 @@
 A USB disk with only a shortcut file on it.<br>
 When you run the shortcut file, the image you have chosen will be set as the wallpaper of your PC.<br>
 This python code enable you to create such a USB disk.<br>
+
+Demo video :https://x.com/300kyen/status/1860547796472049698
 <br>
 Preparations required<br>
 1. Prepare an image file of your choice.<br>
@@ -63,7 +65,7 @@ USBディスクを元に戻す流れ<br>
 備考<br>
 resources内のChangeWP.exeは、ChangeWPをnuitkaにより実行ファイルにしたものです<br>
 動作デモ:<br>
-https://x.com/300kyen/status/1854147116656177185
+https://x.com/300kyen/status/1860547796472049698
 
 # License
 The source code is licensed MIT.
