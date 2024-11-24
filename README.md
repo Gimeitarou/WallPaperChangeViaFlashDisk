@@ -1,9 +1,9 @@
 [Codes for windows]<br>
 [There is also a version that runs on E-directry for those who want to make sure it works on Windows in a virtual environment].<br>
 <br>
-A USB disk with only shortcut files on it.<br>
-When you run the shortcut file, specific image you have chosen will be set as the wallpaper of your PC.<br>
-This is a python code that can create such a USB disk.<br>
+A USB disk with only a shortcut file on it.<br>
+When you run the shortcut file, the image you have chosen will be set as the wallpaper of your PC.<br>
+This python code enable you to create such a USB disk.<br>
 <br>
 Preparations required<br>
 1. Prepare an image file of your choice.<br>
