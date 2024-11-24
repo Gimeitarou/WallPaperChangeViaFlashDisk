@@ -3,7 +3,7 @@
 A USB disk with only a shortcut file on it.<br>
 When you run the shortcut file, the image you have chosen will be set as the wallpaper of your PC.<br>
 This python code enable you to create such a USB disk.<br>
-
+<br>
 Demo video :https://x.com/300kyen/status/1860547796472049698
 <br>
 Preparations required<br>
