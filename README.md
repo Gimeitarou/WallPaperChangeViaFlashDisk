@@ -1,5 +1,4 @@
 [Codes for windows]<br>
-[There is also a version that runs on E-directry for those who want to make sure it works on Windows in a virtual environment].<br>
 <br>
 A USB disk with only a shortcut file on it.<br>
 When you run the shortcut file, the image you have chosen will be set as the wallpaper of your PC.<br>
@@ -26,7 +25,9 @@ How to return the USB disk to the original state<br>
 4. That's all.<br>
 <br>
 Remarks<br>
-ChangeWP.exe in resources is EXE file of ChangeWP.py built by nuitka.<br>
+[Edir_version is also available.]<br>
+[Edir-version.zip and after-use.py] is for those who just want to try the codes on Windows on Virtual environment.<br>
+[ChangeWP.exe in resources is EXE file of ChangeWP.py built by nuitka.]<br>
 
 # License
 The source code is licensed MIT.<br>
